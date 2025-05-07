@@ -12,23 +12,30 @@ Execute the main.py file to launch the application.
 CODE SNIPPITS:
 Below are some snippets from the running code that showcase the GUI components:
 Login Page:
-![Image description](images/s1.png)
+
 <img src="images/s1.png" width="500" height="auto" />
 
 Product Inventory:
-![Image description](images/s2.png)
+<img src="images/s2.png" width="500" height="auto" />
+
 Check Price Histories of Products:
-![Image description](images/s3.png)
+<img src="images/s3.png" width="500" height="auto" />
+
 Add Product to Inventory:
-![Image description](images/s4.png)
+<img src="images/s4.png" width="500" height="auto" />
+
 Search for Product:
-![Image description](images/s5.png)
+<img src="images/s5.png" width="500" height="auto" />
+
 Update Product :
-![Image description](images/s6.png)
+<img src="images/s6.png" width="500" height="auto" />
+
 Generated Reciept :
-![Image description](images/s7.png)
+<img src="images/s7.png" width="500" height="auto" />
+
 Statistics:
-![Image description](images/s8.png)
+<img src="images/s8.png" width="500" height="auto" />
+
 
 
 
