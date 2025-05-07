@@ -12,7 +12,9 @@ Execute the main.py file to launch the application.
 CODE SNIPPITS:
 Below are some snippets from the running code that showcase the GUI components:
 Login Page:
-![image](https://github.com/user-attachments/assets/fcad4d20-1023-4870-a62a-a63e08e7b7fd)
+![Alt text](image_url)
+<img src="![image](https://github.com/user-attachments/assets/fcad4d20-1023-4870-a62a-a63e08e7b7fd) " width="500" height="auto" />
+
 Product Inventory:
 ![image](https://github.com/user-attachments/assets/afccf479-bfe0-40d8-9c15-09c6ca2617e5)
 Check Price Histories of Products:
