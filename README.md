@@ -13,6 +13,7 @@ CODE SNIPPITS:
 Below are some snippets from the running code that showcase the GUI components:
 Login Page:
 ![Image description](images/s1.png)
+<img src="images/s1.png" width="500" height="auto" />
 
 Product Inventory:
 ![Image description](images/s2.png)
