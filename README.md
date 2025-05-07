@@ -12,23 +12,22 @@ Execute the main.py file to launch the application.
 CODE SNIPPITS:
 Below are some snippets from the running code that showcase the GUI components:
 Login Page:
-![Alt text](image_url)
-<img src="![image](https://github.com/user-attachments/assets/fcad4d20-1023-4870-a62a-a63e08e7b7fd) " width="500" height="auto" />
+![Image description](images/s1.png)
 
 Product Inventory:
-![image](https://github.com/user-attachments/assets/afccf479-bfe0-40d8-9c15-09c6ca2617e5)
+![Image description](images/s2.png)
 Check Price Histories of Products:
-![image](https://github.com/user-attachments/assets/5118c7c6-91c4-402e-af35-dbd5204d8503)
+![Image description](images/s3.png)
 Add Product to Inventory:
-![image](https://github.com/user-attachments/assets/03015f56-2377-434b-82f6-a6791990aa20)
+![Image description](images/s4.png)
 Search for Product:
-![image](https://github.com/user-attachments/assets/c41eccce-7e70-4410-8860-762bf05bf106)
+![Image description](images/s5.png)
 Update Product :
-![image](https://github.com/user-attachments/assets/51f14b4d-4bf0-4176-b4fd-aca73a706568)
+![Image description](images/s6.png)
 Generated Reciept :
-![image](https://github.com/user-attachments/assets/b67caf32-1062-42a8-af77-a09abacb275b)
+![Image description](images/s7.png)
 Statistics:
-![image](https://github.com/user-attachments/assets/d16e26ca-5d84-4a7d-bd10-09b563a9c3b7)
+![Image description](images/s8.png)
 
 
 
